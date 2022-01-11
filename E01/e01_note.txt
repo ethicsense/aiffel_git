@@ -1,0 +1,9 @@
+e01 ref
+
+keras.sequential conv2d parameter : 
+https://keras.io/ko/layers/convolutional/
+https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
+
+about ReLU
+https://keras.io/api/layers/activations/
+https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
