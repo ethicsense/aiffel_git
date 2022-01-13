@@ -7,3 +7,14 @@ https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/
 about ReLU
 https://keras.io/api/layers/activations/
 https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+
+keras.layer.dense
+https://machinelearningknowledge.ai/keras-dense-layer-explained-for-beginners/
+
+cnn구조에 대한 설명
+https://codetorial.net/tensorflow/convolutional_neural_network.html
+http://taewan.kim/post/cnn/
+https://youngq.tistory.com/40
+
+합성곱
+https://ko.wikipedia.org/wiki/%ED%95%A9%EC%84%B1%EA%B3%B1
