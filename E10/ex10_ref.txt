@@ -1,0 +1,36 @@
+gan - batch_size, learning_rate
+https://ndb796.tistory.com/689
+
+label smoothing
+https://sincerechloe.tistory.com/70
+https://blog.si-analytics.ai/21
+
+instance normalization
+https://www.tensorflow.org/addons/tutorials/layers_normalizations?hl=ko
+
+dcgan_codes
+https://wandb.ai/sairam6087/dcgan/reports/DCGAN-on-CIFAR-10--Vmlldzo5NjMyOQ
+https://medium.com/@stepanulyanin/dcgan-adventures-with-cifar10-905fb0a24d21
+https://www.kaggle.com/laszlofazekas/cifar10-dcgan-example
+
+
+
+-------
+1st
+batch_size=256, learning_rate=0.0001, epochs=700
+2st
+batch_size=256, learing_rate=0.001, label_smoothing=0.05, epochs=700
+3st
+batch_size=400, learnign_rate=0.0006, epochs=800
+4st
+batch_size=256, learing_rate=0.0006, label_smoothing=0.01, epochs=800
+5st
+batch_size=64, learing_rate=0.00006, label_smoothing=0.1, epochs=300
+6th bb
+batch_size=64, learning_rate=0.00004 label_smoothing=0.2, epochs=400
+7th
+batch_size=128, learning_rate=0.0002, epochs=200
+8th bbb stopped
+batch_size=64, learning_rate=0.0002, label_smoothing=0.1, epochs=400
+9th
+batch_size=64, learning_rate=0.0001, label_smoothing=0.1, epochs=500

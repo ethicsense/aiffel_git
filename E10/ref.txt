@@ -1,3 +1,0 @@
-instance normalization
-https://www.tensorflow.org/addons/tutorials/layers_normalizations?hl=ko
-
