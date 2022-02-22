@@ -1,0 +1,7 @@
+* data preprocessing
+성민선생님의 강의 : https://8888-wyxnprdyq8kwqsh8m04sh4v60.e.prod.connect.ainize.ai/notebooks/aiffel/workplace/E12/%5BE-12%5DKorchatbot.ipynb
+
+* regular expression
+https://regexr.com/
+https://hamait.tistory.com/342
+
