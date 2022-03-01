@@ -1,0 +1,7 @@
+* pandas
+https://m.blog.naver.com/rising_n_falling/221622971970
+https://hogni.tistory.com/9
+https://ehpub.co.kr/pandas-csv-dataframe-column-select-python/
+
+* CSR matrix
+https://endowkim.tistory.com/entry/Index-exceeds-matrix-dimensions
